@@ -18,7 +18,7 @@ spec:
         app: ic-webapp
     spec:
       containers:
-      - image: choco1992/ic-webapp:v1.0
+      - image: ajanay/ic-webapp:v1.0
         name: ic-webapp
         env:
         - name: ODOO_URL
