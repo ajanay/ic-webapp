@@ -1,6 +1,4 @@
-﻿# PROJET DEVOPS. 
-
-## **1) Introduction**
+﻿## **1) Introduction**
 
 La société **IC GROUP** dans laquelle vous travaillez en tant qu’ingénieur Devops souhaite mettre sur pied un site web vitrine devant permettre d’accéder à ses 02 applications phares qui sont :  
 
