@@ -1,4 +1,4 @@
-﻿# PROJET FINAL DEVOPS. 
+﻿# PROJET DEVOPS. 
 
 ## **1) Introduction**
 
